@@ -1,0 +1,35 @@
+name: GitHub Stats
+
+on:
+workflow_dispatch:
+schedule:
+- cron: "0 0 * * *"
+
+permissions:
+contents: write
+
+jobs:
+stats:
+runs-on: ubuntu-latest
+
+```
+steps:
+  - name: Generate GitHub Stats
+    uses: stats-organization/github-readme-stats-action@v1
+    with:
+      card: stats
+      path: profile/stats.svg
+      options: username=chaern&show_icons=true&include_all_commits=true&locale=kr
+
+  - name: Generate Top Languages
+    uses: stats-organization/github-readme-stats-action@v1
+    with:
+      card: top-langs
+      path: profile/top-langs.svg
+      options: username=chaern&layout=compact&locale=kr
+
+  - name: Commit generated stats
+    uses: stefanzweifel/git-auto-commit-action@v7
+    with:
+      commit_message: "Update GitHub stats"
+```
