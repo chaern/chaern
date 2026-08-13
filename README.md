@@ -64,14 +64,13 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chaern&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaern&layout=compact&theme=default&hide_border=true" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaern&theme=default&hide_border=true" height="180"/>
-</p>
+<img src="https://github-stats-extended.vercel.app/api?username=chaern&show_icons=true&include_all_commits=true&count_private=true&locale=ko" height="180"/>
+
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaern&layout=compact&locale=ko" height="180"/>
+
+</div>
 
 ---
 
