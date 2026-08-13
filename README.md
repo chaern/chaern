@@ -19,7 +19,7 @@
 * 🔧 **HW Development Engineer** 경험
 * 🚗 Automotive Electronics / 전장품 개발
 * 📊 Python 기반 데이터 분석 및 Yield Analysis
-* 🤖 Arduino / ATmega128 / Sensor / Motor Control 학습
+* 🤖 Arduino / ATmega128 / Sensor / Motor Control
 * ⚡ Embedded System & Control 분야로 역량 확장 중
 
 > **Hardware를 이해하고 Software로 문제를 해결하는 Engineer를 목표로 합니다.**
@@ -28,28 +28,31 @@
 
 ## 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 
 <p>
   <img src="https://cdn.simpleicons.org/cplusplus" height="40" alt="C++"/>
   <img src="https://cdn.simpleicons.org/python" height="40" alt="Python"/>
 </p>
 
-### Embedded & Hardware
+### 🔧 Embedded & Hardware
 
 <p>
   <img src="https://cdn.simpleicons.org/arduino" height="40" alt="Arduino"/>
-  <img src="https://cdn.simpleicons.org/atmel" height="40" alt="ATmega"/>
 </p>
 
-### Data Analysis
+`ATmega128` · `Sensors` · `Embedded Systems` · `Motor Control`
+
+### 📊 Data Analysis
 
 <p>
   <img src="https://cdn.simpleicons.org/pandas" height="40" alt="Pandas"/>
   <img src="https://cdn.simpleicons.org/numpy" height="40" alt="NumPy"/>
 </p>
 
-### Development Tools
+`Python` · `Pandas` · `NumPy` · `Data Visualization` · `Yield Analysis`
+
+### 🧰 Tools
 
 <p>
   <img src="https://cdn.simpleicons.org/git" height="40" alt="Git"/>
@@ -59,11 +62,24 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chaern&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaern&layout=compact&theme=default&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chaern&theme=default&hide_border=true" height="180"/>
+</p>
+
+---
+
 ## 🚀 Projects
 
 ### 🔐 ATmega128 Digital Door Lock
 
-**MCU · Embedded C · Keypad · LCD**
+**ATmega128 · Embedded C · Keypad · LCD**
 
 * ATmega128 기반 디지털 도어락 구현
 * Keypad 입력 처리
@@ -91,7 +107,7 @@
 * Rotary Encoder
 * Hall Sensor
 * Photoresistor
-* 센서 입력값을 이용한 제어 및 출력 실습
+* 센서 입력값을 활용한 제어 및 출력 구현
 
 ---
 
@@ -126,8 +142,8 @@
 **Automotive Electronics**
 
 * 자동차 전장품 하드웨어 개발
-* 제품 신뢰성 시험 및 데이터 분석
-* 문제 발생 원인 분석
+* 제품 신뢰성 시험 및 결과 분석
+* 시험 실패 원인 분석
 * 하드웨어 구조 및 체결 방식 개선
 * 시험 결과를 기반으로 제품 신뢰성 개선
 
@@ -135,27 +151,21 @@
 
 ## 📚 Currently Learning
 
-<p>
+<p align="center">
   <img src="https://cdn.simpleicons.org/arduino" height="32" alt="Arduino"/>
   <img src="https://cdn.simpleicons.org/cplusplus" height="32" alt="C++"/>
   <img src="https://cdn.simpleicons.org/python" height="32" alt="Python"/>
   <img src="https://cdn.simpleicons.org/github" height="32" alt="GitHub"/>
 </p>
 
-* Embedded System
-* Microcontroller
-* Sensor & Motor Control
-* PLC
-* Electrical Engineering
-* C/C++
-* Python
-* Git & GitHub
+`Embedded System` · `Microcontroller` · `Sensor & Motor Control`
+`PLC` · `Electrical Engineering` · `C/C++` · `Python` · `Git/GitHub`
 
 ---
 
 ## 🎯 Career Goal
 
-**Hardware와 Software를 함께 이해하고 문제를 해결하는 Engineer**
+> **Hardware와 Software를 함께 이해하고 문제를 해결하는 Engineer**
 
 하드웨어 개발 경험을 기반으로
 임베디드 시스템과 제어 분야까지 역량을 확장하고 있습니다.
@@ -166,8 +176,12 @@
 
 ### 📫 Connect with Me
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/chaern">
   <img src="https://cdn.simpleicons.org/github" height="35" alt="GitHub"/>
 </a>
+
+<br>
+
+**GitHub · [chaern](https://github.com/chaern)**
 
 </div>
