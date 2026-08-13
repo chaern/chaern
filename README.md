@@ -65,10 +65,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=본인_GITHUB_ID&show_icons=true" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=본인_GITHUB_ID&layout=compact" height="180" alt="Top Languages"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 ---
