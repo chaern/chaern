@@ -66,15 +66,15 @@
 
 <div align="center">
 
-<img src="https://github-stats-extended.vercel.app/api?username=chaern&show_icons=true&include_all_commits=true&count_private=true&locale=ko" height="180"/>
+<img src="./profile/stats.svg" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=chaern&layout=compact&locale=ko" height="180"/>
+<img src="./profile/top-langs.svg" height="180" alt="Top Languages"/>
 
 </div>
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🔐 ATmega128 Digital Door Lock
 
@@ -141,6 +141,50 @@
 **Automotive Electronics**
 
 * 자동차 전장품 하드웨어 개발
+* 제품 신뢰성 시험 및 결과 분석
+* 시험 실패 원인 분석
+* 하드웨어 구조 및 체결 방식 개선
+* 시험 결과를 기반으로 제품 신뢰성 개선
+
+---
+
+## 📚 Currently Learning
+
+<p align="center">
+  <img src="https://cdn.simpleicons.org/arduino" height="32" alt="Arduino"/>
+  <img src="https://cdn.simpleicons.org/cplusplus" height="32" alt="C++"/>
+  <img src="https://cdn.simpleicons.org/python" height="32" alt="Python"/>
+  <img src="https://cdn.simpleicons.org/github" height="32" alt="GitHub"/>
+</p>
+
+`Embedded System` · `Microcontroller` · `Sensor & Motor Control`
+`PLC` · `Electrical Engineering` · `C/C++` · `Python` · `Git/GitHub`
+
+---
+
+## 🎯 Career Goal
+
+> **Hardware와 Software를 함께 이해하고 문제를 해결하는 Engineer**
+
+하드웨어 개발 경험을 기반으로
+임베디드 시스템과 제어 분야까지 역량을 확장하고 있습니다.
+
+---
+
+<div align="center">
+
+### 📫 Connect with Me
+
+<a href="https://github.com/chaern">
+  <img src="https://cdn.simpleicons.org/github" height="35" alt="GitHub"/>
+</a>
+
+<br>
+
+**GitHub · chaern**
+
+</div>
+
 * 제품 신뢰성 시험 및 결과 분석
 * 시험 실패 원인 분석
 * 하드웨어 구조 및 체결 방식 개선
