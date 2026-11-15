@@ -5,8 +5,6 @@
 ## 주요 프로젝트
 
 - **PARK:ON 스마트 주차장** · 운전자가 빈자리와 차량 위치를 확인하는 웹·모바일 화면과 관리자 관제 화면을 개발했습니다. [프로젝트 보기](https://github.com/chaern/parkon-smart-parking)
-- **Indy7 로봇 이송·격자 적재** · 실제 협동로봇으로 물체를 이송하고 5×5 격자에 반복 적재하는 동작을 실습했습니다. [실습 코드](https://github.com/chaern/intel_dx/blob/main/robot/0908/25repeat.py)
-- **ATmega128 디지털 도어락** · 팀장으로 키패드 입력 문제를 분석하고, 비밀번호 재설정과 초기화 기능을 추가했습니다.
 
 ## 실습 기록
 
