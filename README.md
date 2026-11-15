@@ -8,7 +8,12 @@
 
 ## 실습 기록
 
-PLC 순차제어, Factory I/O 금속·비금속 분류, MELSEC-Q 서보 위치결정, 로봇 제어와 Python·AI 실습 자료를 정리했습니다. [Intel DX 실습 저장소](https://github.com/chaern/intel_dx)
+- **PLC·서보·HMI** · MELSEC-Q에서 센서 입력에 따른 순차제어를 구성하고, 서보 원점복귀·JOG·위치 티칭과 GP-Pro EX의 시작·정지 및 상태 표시를 실습했습니다.
+- **Indy7 협동로봇** · 실제 장비에서 그리퍼로 물체를 집어 이송하고 반복 적재했습니다. 실습 코드에서는 PLC 워드 명령을 5×5 격자의 작업 위치로 변환했습니다.
+- **Factory I/O 가상 공정** · 비전 센서 입력을 PLC에 연결해 금속·비금속을 분류하고, 센서 감지에 따른 스토퍼 제어와 MQTT 메시지 송수신을 실습했습니다.
+- **머신비전·로봇 모방학습** · Intel Geti로 여행 준비물 7종의 객체 탐지를 실습하고, LeRobot에서 SO-101 로봇팔 캘리브레이션과 시연 데이터 수집을 진행했습니다.
+
+[Intel DX 실습 저장소](https://github.com/chaern/intel_dx)
 
 ## 경력 및 교육
 
